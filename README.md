@@ -46,7 +46,7 @@ This is the only roadmap you required to understand JavaScript from basic fundam
   - [ ] Logical Operators
   - [ ] Ternary operator
   - [ ] Unary Operators
-- [ ] Functions
+- [ ] **Functions**
   - [ ] Different between arguments & parameters
   - [ ] Rest Parameter
   - [ ] Different types of function declaration
@@ -59,17 +59,17 @@ This is the only roadmap you required to understand JavaScript from basic fundam
   - [ ] Lexical Environment
   - [ ] Lexical Scope
   - [ ] Closures
-- [ ] DOM & Events
+- [ ] **DOM & Events**
   - [ ] What is DOM?
   - [ ] What are different events occur in a Browser?
   - [ ] How to use events to manipulate DOM?
  - [ ] DOM Manipulation
-- [ ] Miscellaneous Topics
+- [ ] **Miscellaneous Topics**
   - [ ] What is `Strict Mode` in JavaScript?
   - [ ] What is `this`? (no pun intended)
   - [ ] Uses of `this` keyword
   - [ ] `setTimeout()` & `setInterval()`
-- [ ] Asynchronous JavaScript
+- [ ] **Asynchronous JavaScript**
   - [ ] Callbacks & its disadvantages
   - [ ] Callback Hell
   - [ ] Promises
